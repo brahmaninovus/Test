@@ -8,8 +8,10 @@ function App() {
       <div className="app-container">
         <Header />
         <h1>Hello, Novus</h1>
+        <h2>hii</h2>
+        <h3>hi</h3>
       </div>
-    </NotesProvider>
+    </NotesProvider> //test
   );
 }
 
