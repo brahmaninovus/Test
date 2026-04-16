@@ -8,9 +8,7 @@ function App() {
       <div className="app-container">
         <Header />
         <h1>Hello, Novus</h1>
-        <h2>hii</h2>
-        <h3>hi</h3>
-        <h4>tes</h4>
+        
       </div>
     </NotesProvider> //test
   );

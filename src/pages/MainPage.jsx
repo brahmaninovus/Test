@@ -21,6 +21,7 @@ const MainPage = ({ type }) => {
       <h1>
         {type === "active" ? 'Catatan Aktif' : 'Catatan Arsip'}
       </h1>
+      <h2>hi</h2>
       <section className='search-bar'>
         <input
           type="text"
